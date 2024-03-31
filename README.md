@@ -1,5 +1,7 @@
 # GoodReads
 
+## Rosales Fuentes Raul - 19210547
+## Primer proyeceto de la materia de programacion web llamado GoodReads 
 
 En este primer proyecto vamos a desarrollar una aplicación web sencilla utilizando solamente la librería estándar de python y Redis un almacen de datos en memoria.
 
