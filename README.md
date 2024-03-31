@@ -1,3 +1,5 @@
+###Buenas lecturas
+
 En este primer proyecto vamos a desarrollar una aplicación web sencilla utilizando solamente la librería estándar de python y Redis un almacen de datos en memoria.
 
 Para darte una idea del tipo de aplicación que vamos a programar, ejecuta el servidor HTTP Básico de Python en el directorio Books.
